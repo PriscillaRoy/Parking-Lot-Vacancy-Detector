@@ -1,0 +1,3 @@
+Run the file cv_hm3.py, which in turn calls gettrainimages.py and creates the positive and negative .txt and sample images.
+Run the makenegfile.py if we want to add any other negative images.
+Run the Testalg.py, which calls other helper functions for a particular .xml and .jpg files and finds the required metrics

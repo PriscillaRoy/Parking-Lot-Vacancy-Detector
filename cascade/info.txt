@@ -1,0 +1,12 @@
+
+HAAR1 - 10 stages 20wh
+
+LBP1 -10 stages 24wh
+
+HAAR2 -20 stages 20wh
+
+HAAR3 -40 stages 20wh 18,16
+
+LBP2 -40 stages 20wh 20,18
+
+LBP3 -40 stages 24wh 
